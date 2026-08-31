@@ -79,4 +79,5 @@ report — source `.pbix` file available on request due to file size)
 
 ## Author
 **Tayyab Ali**  
-GitHub: [@Tayyabali-analyst](https://github.com/Tayyabali-analyst)
+GitHub: [@Tayyabali-analyst](https://github.com/Tayyabali-analyst)  
+LinkedIn: [your-linkedin-url-here]
